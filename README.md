@@ -73,7 +73,7 @@ Copyright (C) 2022 WeebZone
 <details>
     <summary><b>Click Here For Description</b></summary>
 
-|![](https://avatars.githubusercontent.com/u/104455718)||
+|![](https://avatars.githubusercontent.com/u/104455718)|
 |[`KSK`](https://github.com/RahulSharma45)
 | `me` add modules and fixes & many more|Base Repo|For there BOT_PM and LOG feature| For Task Limit|
 
