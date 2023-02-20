@@ -42,7 +42,7 @@ List of Variables used by the Bot
 
 </h3>
 
--Deploying on VPS Using Docker
+Deploying on VPS Using Docker
 Clone this repo:
                   ```git clone https://github.com/KSKOP69/MirrorBot/ && cd mirrorbot```
 - Start Docker daemon (SKIP if already running):
