@@ -1,16 +1,10 @@
 <p align="center">
-    <a href="https://github.com/weebzone/WZML">
+    <a href="https://github.com/RahulSHarma45">
         <kbd>
-            <img width="250" src="https://telegra.ph/file/496644cbabaeb916e3616.png" alt="WeebZone Logo">
+            <img width="250" src="https://te.legra.ph/file/8f97ef7ffb96f1ce0c16a.jpg" alt="KSK Logo">
         </kbd>
     </a>
 </p>
-
-<p align="center">
-<div align=center>
-
-[![GitHub forks](https://img.shields.io/github/forks/weebzone/WZML?style=social)](https://github.com/weebzone/WZML/fork)
-[![GitHub followers](https://img.shields.io/github/followers/weebzone?style=social&label=weebzone%20Followers)](https://github.com/weebzone)
 
 ----
 
@@ -23,14 +17,14 @@
 
 ----
 
-## ***WeebZone MLTB***
+## ***KSK MLTB***
 
 <div align=center>
 
-ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by Codewithweeb to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
+ℹ️ A Powerful Pyrogram Based Telegram Mirror Leech Bot Modded by KSK to directly Mirror to Google Drive or Leech to Telegram, with Multi Direct Links Support for Enhanced Mirroring & Leeching.|
 ---|
     
-### ***Source Code*** : [Repo](https://github.com/weebzone/WZML)
+### ***Source Code*** : [Repo](https://github.com/KSKOP69/MirrorBot)
 
 #### Note: `If you Like My Work, Give Stars ⭐ to the Repo and Follow Me on Github`
     
@@ -79,9 +73,9 @@ Copyright (C) 2022 WeebZone
 <details>
     <summary><b>Click Here For Description</b></summary>
 
-|![](https://avatars.githubusercontent.com/u/113664541)|![](https://avatars.githubusercontent.com/u/105407900)|![](https://avatars.githubusercontent.com/u/94453305)|![](https://avatars.githubusercontent.com/u/84721324)|![](https://avatars.githubusercontent.com/u/106424420)|![](https://avatars.githubusercontent.com/u/77075674)|![](https://avatars.githubusercontent.com/u/56303690)|![](https://avatars.githubusercontent.com/u/91935990)|
+|![](https://avatars.githubusercontent.com/u/104455718)||
 |---|---|---|---|---|---|---|---|
-|[`CodeWithWeeb`](https://github.com/weebzone)|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`Ajay Choudhary`](https://github.com/ajay0916)|[`Maverick`](https://github.com/MajnuRangeela)|[`Dark Lord`](https://github.com/DarkLordlk)|[`Anasty17`](https://github.com/anasty17)|[`Arshsisodiya`](https://github.com/arshsisodiya/helios-mirror) |[`ToxyTech`](https://github.com/dipeshpatil123)|
-| `me` add modules and fixes & many more|Co-Author|Co-Author & Tester|Co-Author|Co-Author|Base Repo|For there BOT_PM and LOG feature| For Task Limit|
+|[`KSK`](https://github.com/RahulSharma45)
+| `me` add modules and fixes & many more|Base Repo|For there BOT_PM and LOG feature| For Task Limit|
 
 </details>
