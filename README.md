@@ -40,18 +40,18 @@ List of Variables used by the Bot
 
 ### 4. Steps to Deploy the Bot to Run for Yourself
 
-Deploying on VPS Using Docker
-Clone this repo:
-                  `git clone https://github.com/KSKOP69/MirrorBot/ && cd mirrorbot`
-Start Docker daemon (SKIP if already running):
-                  `sudo dockerd`
-Build Docker image:
-                  `sudo docker build . -t mirror-bot`
-Run the image:
-                  `sudo docker run -p 80:80 mirror-bot`
-To stop the image:
-                  `sudo docker ps`
-                  `sudo docker stop id`
+!Deploying on VPS Using Docker
+!Clone this repo:
+                  ```git clone https://github.com/KSKOP69/MirrorBot/ && cd mirrorbot```
+!Start Docker daemon (SKIP if already running):
+                  ```sudo dockerd```
+!Build Docker image:
+                  ```textsudo docker build . -t mirror-bot```
+!Run the image:
+                  ```textsudo docker run -p 80:80 mirror-bot```
+!To stop the image:
+                  ```sudo docker ps```
+                  ```sudo docker stop id```
 
 ---
 
