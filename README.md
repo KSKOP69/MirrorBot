@@ -42,6 +42,20 @@ List of Variables used by the Bot
 
 </h3>
 
+
+Deploying on VPS
+IMPORTANT NOTES:
+
+You must set SERVER_PORT variable to 80 or any other port you want to use.
+-To clear the container (this will not affect on the image):
+```sudo docker container prune```
+-To delete the images:
+```sudo docker image prune -a```
+-Check the number of processing units of your machine with ```nproc``` cmd and times it by 4, then edit ```AsyncIOThreadsCount``` in qBittorrent.conf.
+You can add ```CONFIG_FILE_URL``` variable using docker and docker-compose, google it.
+
+-----
+
 Deploying on VPS Using Docker
 Clone this repo:
                   ```git clone https://github.com/KSKOP69/MirrorBot/ && cd mirrorbot```
